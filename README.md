@@ -3,7 +3,7 @@
 **AI/ML Engineer** building intelligent developer tools and AI-powered productivity systems.
 
 🎓 **Purdue University** — Post Graduate Program in AI & Machine Learning (2024-2025)  
-💼 **8 years at Blackboard** — Deep EdTech domain expertise (Learn LMS, Ultra UI)
+💼 **14+ years at Blackboard** — Deep EdTech domain expertise (Learn LMS, Ultra UI)
 
 ---
 
