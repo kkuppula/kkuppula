@@ -11,20 +11,33 @@
 
 I specialize in **AI-assisted software development** — tools that help engineers ship faster and safer:
 
-| Project | What It Does |
-|---------|-------------|
-| [**code-rag-mcp**](https://github.com/kkuppula/code-rag-mcp) | Semantic code search using RAG + embeddings — finds related code by meaning, not just keywords |
-| [**multi-agent-workflow**](https://github.com/kkuppula/opencode-multi-agent-workflow) | 4-agent pipeline (Discovery → Implementation → Test → Verification) with gated approvals |
-| [**pr-review-dashboard**](https://github.com/kkuppula/pr-review-dashboard) | AI-powered PR triage — auto-classifies risk, suggests reviewers, summarizes changes |
-| [**log-ocean**](https://github.com/kkuppula/log-ocean) | AI log analysis with streaming LLM explanations and pattern detection |
-| [**ado-query-skill**](https://github.com/kkuppula/opencode-ado-skill) | Natural language → Azure DevOps queries (bugs, velocity, regressions) |
-| [**jenkins-skill**](https://github.com/kkuppula/opencode-jenkins-skill) | Build failure analysis with LLM-powered root cause identification |
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **PR Reviewer Bot** | Autonomous multi-agent PR reviewer with 4 specialist agents (Architecture, Security, Performance, Testing) | Python, Agno, Claude |
+| **Code RAG MCP** | Semantic code search using RAG + embeddings — finds related code by meaning, not just keywords | Python, ChromaDB, MCP |
+| **Multi-Agent Workflow** | 4-agent pipeline (Discovery → Implementation → Test → Verification) with gated approvals | Shell, OpenCode |
+| **PR Review Dashboard** | AI-powered PR triage — auto-classifies risk, suggests reviewers, summarizes changes | Vanilla JS, Zero deps |
+| **Log Ocean** | AI log analysis with streaming LLM explanations and pattern detection | Python, Local LLM |
+| **ADO Query Skill** | Natural language → Azure DevOps queries (bugs, velocity, regressions) | Python, WIQL, MCP |
+| **Jenkins Skill** | Build failure analysis with LLM-powered root cause identification | Python, Jenkins API |
+
+---
+
+## 📦 Source Code Access
+
+All project repositories are **private**. If you're interested in the source code for any project:
+
+1. **Connect with me** on [LinkedIn](https://www.linkedin.com/in/kirankuppula/)
+2. **Send a message** describing which project(s) you're interested in
+3. I'll grant you collaborator access to the relevant repo(s)
+
+> 💡 *I'm happy to share code for learning, collaboration, or interview discussions — just reach out!*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** LLM APIs (Claude, GPT-4) • RAG Pipelines • Embeddings • Agent Patterns • Prompt Engineering  
+**AI/ML:** LLM APIs (Claude, GPT-4) • RAG Pipelines • Embeddings • Multi-Agent Systems • Prompt Engineering  
 **Backend:** Python • Java • Node.js • REST APIs • PostgreSQL  
 **Frontend:** React • TypeScript • Angular • Tailwind CSS  
 **DevOps:** Docker • Jenkins • GitHub Actions • Azure DevOps
